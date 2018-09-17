@@ -231,6 +231,11 @@ input, select, textarea {
 	max-height: 190px;
 }
 
+.tech {
+	width:100%;
+	max-height: 260px;
+}
+
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 50px);
